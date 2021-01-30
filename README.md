@@ -12,7 +12,7 @@
 </p>
 
 <br />
-### Hi there, I'm [SmokinSpectre](https://github.com/SmokinSpectre/) 👋
+## Hi there, I'm [SmokinSpectre](https://github.com/SmokinSpectre/) 👋
 
 - 🥅 I’m Currently: **In School**
 - 🌱 I’m Currently: **Learning Full Stack Web Development & C**
