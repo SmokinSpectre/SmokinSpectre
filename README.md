@@ -11,7 +11,6 @@
   <img alt="SmokinSpectre's Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmokinSpectre&layout=compact&show_icons=true&include_all_commits=true&hide_border=true&theme=radical&langs_count=10" />
 </p>
 
-<br />
 ### Hi there, I'm [SmokinSpectre] (https://github.com/SmokinSpectre) 👋
 
 - 🥅 I’m Currently: **In School**
