@@ -22,10 +22,6 @@
 
 <br />
 
-<p align="center">
-  <img alt="SmokinSpectre's Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmokinSpectre&layout=compact&show_icons=true&include_all_commits=true&hide_border=true&theme=radical&langs_count=10" />
-</p>
-
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://www.google.com/search?&q=Visual+Studio+Code)
@@ -35,5 +31,11 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://www.google.com/search?&q=Github)
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://www.google.com/search?&q=command+line+interface)
 [<img align="left" alt="Linux" width="26px" src="https://image.flaticon.com/icons/svg/226/226772.svg" />](https://www.google.com/search?&q=Linux)
+
+<br />
+
+<p align="center">
+  <img alt="SmokinSpectre's Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmokinSpectre&layout=compact&show_icons=true&include_all_commits=true&hide_border=true&theme=radical&langs_count=20" />
+</p>
 
 <br />
