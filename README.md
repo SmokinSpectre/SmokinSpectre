@@ -35,7 +35,8 @@
 <details>
   <summary>My Pofile Stats</summary>
   <br/>
-  <a href="https://github.com/rjsamra/github-readme-stats"><img alt="SmokinSpectre's GitHub Stats" src="hhttps://github-readme-stats.vercel.app/api/?username=SmokinSpectre&layout=compact&show_icons=true&include_all_commits=true&hide_border=true&theme=radical" /></a>
+  <a href="https://github.com/rjsamra/github-readme-stats"><img alt="SmokinSpectre's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=SmokinSpectre&layout=compact&show_icons=true&include_all_commits=true&hide_border=true&theme=radical" /></a>
+  <br/>
 </details>
 
 <details> 
