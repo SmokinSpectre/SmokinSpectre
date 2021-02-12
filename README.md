@@ -12,7 +12,7 @@
 
 ### Few Places Where I Exist:
 
-[<img align="center" alt="SmokinSpectre | Github" width="22px" src="https://image.flaticon.com/icons/svg/733/733553.svg" />][github]
+[<img align="left" alt="SmokinSpectre | Github" width="22px" src="https://image.flaticon.com/icons/svg/733/733553.svg" />][github]
 [<img align="left" alt="SmokinSpectre | Instagram" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111463.svg" />][instagram]
 [<img align="left" alt="SmokinSpectre | Email" width="22px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />][gmail]
 
