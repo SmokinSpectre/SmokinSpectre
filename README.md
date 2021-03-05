@@ -6,7 +6,8 @@
 
 ### Hi there, I'm [SmokinSpectre](https://github.com/SmokinSpectre) 👋
 
-- 🌱 I’m Currently: **Learning C**
+- 🥅 I’m Currently: **In School**
+- 🌱 I’m Learning: **Rust**
 - 🔭 2021 Goals: **Make My Own Operating System**
 - ⚡ Fun Fact:  **I Use Arch BTW**
 
