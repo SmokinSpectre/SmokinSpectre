@@ -9,6 +9,7 @@
 - 🌱 I’m Currently: **Learning C**
 - 🔭 2021 Goals: **Contribute To Open Source Projects, Try Some New Distros, Rice All Day & Complete My School**
 - ⚡ Fun Fact:  **Making My Own  Operating  System**
+
 ### Few Places Where I Exist:
 
 [<img align="left" alt="SmokinSpectre | Github" width="25px" src="https://image.flaticon.com/icons/svg/733/733553.svg" />][github]
@@ -25,7 +26,7 @@
 [<img align="left" alt="Bash" width="25px" src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/128x128.svg" />](https://www.google.com/search?&q=Bash)
 [<img align="left" alt="Python" width="25px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/python.svg" />](https://www.google.com/search?&q=Python)
 [<img align="left" alt="Git" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://www.google.com/search?&q=Git)
-[<img align="left" alt="Terminal" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://www.google.com/search?&q=command+line+interface)
+[<img align="left" alt="Terminal" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://www.google.com/search?&q=Command+Line+Interface)
 [<img align="left" alt="Linux" width="25px" src="https://image.flaticon.com/icons/svg/226/226772.svg" />](https://www.google.com/search?&q=Linux)
 
 <br />
