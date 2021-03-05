@@ -3,12 +3,15 @@
 [gmail]: mailto:smokinspectre@gmail.com
 [instagram]: https://instagram.com/SmokinSpectre
 [reddit]: https://www.reddit.com/u/5m0k1n5p3c7r3
+
 ### Hi there, I'm [SmokinSpectre](https://github.com/SmokinSpectre) 👋
 
 - 🥅 I’m Currently: **In School**
 - 🌱 I’m Currently: **Learning C**
-- 🔭 2021 Goals: **Contribute To Open Source Projects, Try Some New Distros, Rice All Day & Complete My School**
-- ⚡ Fun Fact:  **Making My Own  Operating  System**
+- 🔭 2021 Goals: **Make My Own Operating System**
+- ⚡ Fun Fact:  **I Use Arch BTW**
+
+<br />
 
 ### Few Places Where I Exist:
 
