@@ -11,8 +11,6 @@
 - 🔭 2021 Goals: **Make My Own Operating System**
 - ⚡ Fun Fact:  **I Use Arch BTW**
 
-<br />
-
 ### Few Places Where I Exist:
 
 [<img align="left" alt="SmokinSpectre | Github" width="25px" src="https://image.flaticon.com/icons/svg/733/733553.svg" />][github]
@@ -49,5 +47,3 @@
   <a href="https://github.com/rjsamra/github-readme-stats"><img alt="SmokinSpectre's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmokinSpectre&layout=compact&show_icons=true&include_all_commits=true&hide_border=true&theme=radical&langs_count=10" /></a>
   <br/>
 </details>
-
-<br />
