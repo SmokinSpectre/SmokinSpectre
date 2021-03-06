@@ -11,7 +11,7 @@
 - 🔭 2021 Goals: **Make My Own Operating System**
 - ⚡ Fun Fact:  **I Use Arch BTW**
 
-__<h1> Few Places Where I Exist: <h1>__
+__<h1> Few Places Where I Exist: </h1>__
 
 [<img align="left" alt="SmokinSpectre | Github" width="25px" src="https://image.flaticon.com/icons/svg/733/733553.svg" />][github]
 [<img align="left" alt="SmokinSpectre | Email" width="25px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />][gmail]
