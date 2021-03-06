@@ -4,7 +4,7 @@
 [instagram]: https://instagram.com/SmokinSpectre
 [reddit]: https://www.reddit.com/u/5m0k1n5p3c7r3
 
-### __Hi there, I'm__ [SmokinSpectre](https://github.com/SmokinSpectre) 👋
+### Hi there, I'm [SmokinSpectre](https://github.com/SmokinSpectre) 👋
 
 - 🥅 I’m Currently: **In School**
 - 🌱 I’m Learning: **Rust**
