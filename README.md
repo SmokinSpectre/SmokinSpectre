@@ -8,7 +8,7 @@
 
 - 🥅 I’m Currently: **In School**
 - 🌱 I’m Learning: **Rust**
-- 🔭 2021 Goals: **Make My Own Operating System**
+- 🔭 2021 Goals: **Make My Own Tiling Window Manager**
 - ⚡ Fun Fact:  **I Use Arch BTW**
 
 ## Few Places Where I Exist:
