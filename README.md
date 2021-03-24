@@ -8,7 +8,7 @@
 
 - 🥅 I’m Currently: **In School**
 - 🌱 I’m Learning: **Rust**
-- 🔭 2021 Goals: **Try To Use Only Libre Software**
+- 🔭 Year Goal: **Use Only GNU/Linux-Libre Distributions**
 - ⚡ Fun Fact:  **I Use Arch BTW**
 
 ## Few Places Where I Exist:
