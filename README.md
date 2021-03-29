@@ -8,8 +8,8 @@
 
 - 🥅 I’m Currently: **In School**
 - 🌱 I’m Learning: **Rust**
-- 🔭 Year Goal: **Use Only GNU/Linux-Libre Distributions**
-- ⚡ Fun Fact:  **I Use Arch BTW**
+- 🔭 Year Goal: **Finish My School**
+- ⚡ Fun Fact:  **I Use K1SS BTW**
 
 ## Few Places Where I Exist:
 
