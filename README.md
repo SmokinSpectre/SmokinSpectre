@@ -9,7 +9,7 @@
 - 🥅 I’m Currently: **In School**
 - 🌱 I’m Learning: **Rust**
 - 🔭 Year Goal: **Finish My School**
-- ⚡ Fun Fact:  **I Use K1SS BTW**
+- ⚡ Fun Fact:  **I Use Arch BTW**
 
 ## Few Places Where I Exist:
 
